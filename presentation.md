@@ -4,11 +4,11 @@ title: Presentation
 permalink: /presentation/
 ---
 
-## Topic: Introduction to Git and Version Control
+## Topic: QR Codes (Quick Response Codes)
 
-In this presentation, I will talk about what version control is, why developers use Git, and how it helps us track code changes easily.
+In this presentation, I will talk about what QR codes are, how they store information, and where we use them in our daily lives.
 
 ### References:
-1. [Git Documentation - Getting Started](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
-2. [Atlassian Git Tutorial - What is Version Control?](https://www.atlassian.com/git/tutorials/what-is-version-control)
-3. [GitHub Guides - Hello World](https://guides.github.com/activities/hello-world/)
+1. [Denso Wave Official History of QR Code](https://www.qrcode.com/en/history/)
+2. [Kaspersky - What is a QR Code?](https://www.kaspersky.com/resource-center/definitions/what-is-a-qrcode)
+3. [ISO/IEC 18004 Standard Overview](https://www.iso.org/standard/67026.html)
