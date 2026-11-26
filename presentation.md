@@ -18,4 +18,4 @@ Welcome to my presentation page. My presentation focuses on how QR codes store d
 2. **Technical Guide:** Kaspersky Cybersecurity Guide — “What is a QR Code and How It Works.” [Link](https://www.kaspersky.com/resource-center/definitions/what-is-a-qrcode)
 3. **Standard Specification:** ISO/IEC 18004 Standard Overview — “Information technology — Automatic identification and data capture techniques — QR Code bar code symbology specification.” [Link](https://www.iso.org/standard/67026.html)
 
-*(Note: Presentation slides in PDF format will be uploaded to this page one day before the presentation).*
+[Download the slides (PDF)](/QR-Codes-Presentation.pdf)
